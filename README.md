@@ -1,5 +1,6 @@
 # Resources
 
-Space for general bits and pieces
+Examples of student projects
 
-View pages: https://anthillsocial.github.io/free-website/
+### Suspected AI
+[View hosted website](https://anthillsocial.github.io/student-examples/SuspectedAI/MA2806-DataVIs-Economic-Growth)
